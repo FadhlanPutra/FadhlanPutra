@@ -1,4 +1,4 @@
-- 👋 Hi, I’m: Fadhlan Putra
+- 👋 Hi, I’m: Fadhlan Putra Pamungkas
 - 👀 I’m interested in: Technology
 - 🌱 I’m currently learning: Web Development
 - 💞️ I’m looking to collaborate on: Madyan Arashy
