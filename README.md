@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Web Development
 - 💞️ I’m looking to collaborate on: Madyan Arashy
 - 📫 How to reach me: wa.me/
-- 😄 Pronouns: gibran
+- 😄 Pronouns: Fadhlan
 - ⚡ Fun fact: ...
 
 <!---
