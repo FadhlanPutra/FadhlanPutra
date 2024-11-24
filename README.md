@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m: Fadhlan Putra Pamungkas
 - 👀 I’m interested in: Technology
 - 🌱 I’m currently learning: Web Development
-- 💞️ I’m looking to collaborate on: Madyan Arashy
+- 💞️ I’m looking to collaborate on:
 - 📫 How to reach me: wa.me/
 - 😄 Pronouns: Fadhlan
 - ⚡ Fun fact: ...
