@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 # :dizzy: About Me:
 - 👋 Hi, I’m: Fadhlan Putra Pamungkas
 - 👀 I’m interested in: Technology
-- 🌱 I’m currently learning: Web Development
+- 🌱 I’m currently learning: Web Development and App Development
 - 💞️ I’m looking to collaborate on:
-- 📫 How to reach me:
+- 📫 How to reach me: Via Email or Website
 - 😄 Pronouns: Fadhlan
 - ⚡ Fun fact: ...
 <br>
@@ -49,6 +49,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!--- [![](https://visitcount.itsvg.in/api?id=rapleeee&icon=0&color=0)](https://visitcount.itsvg.in) --->
+<!--- [![](https://visitcount.itsvg.in/api?id=FadhlanPutra&icon=0&color=0)](https://visitcount.itsvg.in) --->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
