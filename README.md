@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: Via Email or Website
 - 😄 Pronouns: Fadhlan
 - ⚡ Fun fact: ...
+- 🌐 Portfolio: [fadhlan.my.id](https://fadhlan.my.id)
 <br>
 
 
